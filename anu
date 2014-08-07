@@ -1,0 +1,106 @@
+[33mcommit 41762a8e4e2601adc1934729073ad7cbccd957e3[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Thu Aug 7 10:28:46 2014 +0530
+
+    added extra groups
+
+[33mcommit d30cac7f9b6401cad62fc9e192c7b944ec7ea8b3[m
+Merge: 1e05080 020f8d7
+Author: JayaKrishnan <raajjya@gmail.com>
+Date:   Thu Aug 7 04:18:55 2014 +0530
+
+    Merge pull request #3 from Jay-Krish/master
+    
+    Brancing
+
+[33mcommit 020f8d73d5b591dbb57d2b05040f04e7471c70ab[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Thu Aug 7 04:16:40 2014 +0530
+
+    deleted branch file from master
+
+[33mcommit 3f46917b78de88a6db2100a23b5dd9d4d2e3d569[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Thu Aug 7 04:07:05 2014 +0530
+
+    changes from a new branch
+
+[33mcommit 8479f26c7a049ea52519a274571b7b40aed08bcd[m
+Merge: 53fd2c6 1e05080
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Thu Aug 7 03:38:46 2014 +0530
+
+    Merge branch 'master' of https://github.com/hsenid-mobile/git-workshop
+
+[33mcommit 1e050803f5254650a699b53341c72424cdf19411[m
+Author: JayaKrishnan <raajjya@gmail.com>
+Date:   Thu Aug 7 03:38:32 2014 +0530
+
+    Upstream change test
+
+[33mcommit 53fd2c6a662c8a92b9d9b5c57f2b9a44d3ae196a[m
+Merge: 0b713a8 097daa2
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Thu Aug 7 03:35:56 2014 +0530
+
+    Merge branch 'master' of https://github.com/hsenid-mobile/git-workshop
+
+[33mcommit 0b713a8b6340c13bb39eb722b58d160a0a845d18[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Thu Aug 7 03:32:39 2014 +0530
+
+    seperate directories for each group
+
+[33mcommit 097daa2351258c4f43f42a3bf6993bc21c68288d[m
+Merge: 5c6ad2b 54244e2
+Author: JayaKrishnan <raajjya@gmail.com>
+Date:   Wed Aug 6 14:29:41 2014 +0530
+
+    Merge pull request #2 from Jay-Krish/master
+    
+    added project directory for workshop
+
+[33mcommit 54244e2507e67185393ba8bcb35ba39ddc365492[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Wed Aug 6 14:19:12 2014 +0530
+
+    added project directory for workshop
+
+[33mcommit 5c6ad2b2141d19156bc825590ed4a43a19f635b2[m
+Merge: a5d75c1 75aad2b
+Author: JayaKrishnan <raajjya@gmail.com>
+Date:   Wed Aug 6 05:16:45 2014 +0530
+
+    Merge pull request #1 from Jay-Krish/master
+    
+    Adding gitignore
+
+[33mcommit 75aad2bf5ab7bc330981469e651128c2ec5dc98c[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Wed Aug 6 05:14:05 2014 +0530
+
+    added .gitignore to ommit Idea and Eclipse IDE specific files
+
+[33mcommit 5612987f511175c70e8db49f5cbc87ccbb3eb560[m
+Author: Jayakrishnan <jayakrishnanr@hsenidmobile.com>
+Date:   Wed Aug 6 05:05:21 2014 +0530
+
+    added .gitignore to ommit Idea and Eclipse IDE specific files
+
+[33mcommit 0c145e9afbd68ec1d0ac2b247fda6bc7b7db88f3[m
+Author: jayakrishnanr <raajjya@gmail.com>
+Date:   Tue Aug 5 16:22:42 2014 +0530
+
+    test
+
+[33mcommit f77ba9d15aab1c5734b8d28faeae608f2af21596[m
+Author: jaykrish <raajjya@gmail.com>
+Date:   Tue Aug 5 14:02:46 2014 +0530
+
+    commit message
+
+[33mcommit a5d75c1ca08d1fb347529558cc4896890dc6203f[m
+Author: Jestan Nirojan <jestannirojan@gmail.com>
+Date:   Thu Jul 31 15:00:12 2014 +0530
+
+    Initial commit
